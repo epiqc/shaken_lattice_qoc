@@ -1,0 +1,6 @@
+Duration (in ωᵣ):
+0.6911503837897546
+MZFI (+-4k_L split):
+9.008447477207064
+Final CFI (normalized to MZFI):
+0.33742479781216667

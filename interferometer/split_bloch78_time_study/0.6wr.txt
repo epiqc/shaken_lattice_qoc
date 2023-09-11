@@ -1,0 +1,2 @@
+Final subspace fidelity (YZ greatcircle):
+1.4416131441984164e-7

@@ -1,0 +1,8 @@
+Flight time (in ωᵣ/2pi):
+0.09
+MZFI (+-4k_L split):
+7405.160548410581
+Final CFI (normalized to MZFI):
+2.5492012784990905
+Final log10(δa):
+-0.20320206380964168

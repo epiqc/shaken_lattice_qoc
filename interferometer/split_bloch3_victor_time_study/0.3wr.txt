@@ -1,0 +1,2 @@
+Final infidelity (Bloch 3) in %:
+0.004172350160125404

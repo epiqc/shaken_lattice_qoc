@@ -1,0 +1,2 @@
+Final subspace infidelity (YZ greatcircle) in %:
+1.3591856839539182e-6
